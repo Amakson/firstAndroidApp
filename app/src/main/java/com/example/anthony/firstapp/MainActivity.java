@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
      * See https://g.co/AppIndexing/AndroidStudio for more information.
-     * remember this ok
+     * remember this and the best first app
      */
     private GoogleApiClient client;
 
